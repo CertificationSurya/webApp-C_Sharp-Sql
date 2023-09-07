@@ -16,8 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\VS C# Projects\Learning C#\MyStore
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/VS C\# Projects/Learning C\#/MyStore/Pages/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS C\# Projects/Learning C\#/MyStore/Pages/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/VS C\# Projects/Learning C\#/MyStore/Pages/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS C\# Projects/Learning C\#/MyStore/Pages/Clients/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/VS C\# Projects/Learning C\#/MyStore/Pages/Error.cshtml]
